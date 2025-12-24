@@ -40,7 +40,7 @@ A comprehensive personal finance management application built with Expo, React N
 1. **Clone or navigate to the project directory**
 
 ```bash
-cd CashFlowy_HKD
+cd Finmate-PersonalFinance
 ```
 
 2. **Install dependencies**
